@@ -1,0 +1,10 @@
+print("이름 :",end="")
+name = input()
+print(type(name))
+print("이름 :",end="")
+ahe = input()
+print(type(ahe))
+print("이름 :",end="")
+key= input()
+print(type(key))
+#로 하면 input의 기능은 사용자의 입력 기능을 문자열로 가져오기때문에 전부 str로 나옴
