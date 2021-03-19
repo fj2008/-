@@ -5,8 +5,6 @@
 파이썬에서는 문자열 안에 들어가있는 문자를 문자라 하지않고 '요소'라고 한다
 
 '''
-
-'''
 text = "Life is too short, You need Python"
 
 
@@ -21,7 +19,7 @@ print(monja2)
 print(monja3)
 print(monja4)
 print(monja5)
-'''
+
 '''
       RAM
 --------------------
@@ -38,7 +36,7 @@ print(monja5)
 뒤에서 부터 세도 된다는 말      -n을 붙이면됨
 
 '''
-
+'''
 text = "python is easy"
 #양수 인덱스 번호와 음수 인덱스 번호를 적절히 상요해서
 #아래와 같이 출력하세요
@@ -56,7 +54,7 @@ monja3 = text[-4] +text[-3]+ text[-2]+ text[-1]
 print(monja1)
 print(monja2)
 print(monja3)
-
+'''
 '''위와 같이 하면 되지만 
 존나 불편함
 그래서 나온게 슬라이싱임

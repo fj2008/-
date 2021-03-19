@@ -42,7 +42,20 @@ print(personlnfon["address"])
 caffe = {"Americano":4600,
          "latte":5100,
          "cappuccino": 5100,
-         "oatmealatte":5400}
+         "oatmealatte":5400,
+         "cold Brew" : 5300
+         "Espresso" : 4100}
+
+caffe["cappuccino"] = 5300
+caffe.update (dolcelatte = 6500)
+caffe.update(Americano = 4700)
+caffe.update(oatmealatte = 5300)
+#pop을 사용해서 키를 삭제할수도 있따
+removedItem = caffe.pop("cappuccino")
+removedItem = caffe.pop("cold Brew")
+removedItem = caffe.pop("Espresso")
+
+#업데이트 메서드를 사용해서 새로운 key 와 값을 저장 할수 있지만 코드가 헷갈려서 잘 안씀
 '''
 keys라는 메서드 키만 표현
 values라는 메서드는 키에 포함된 값을 표현

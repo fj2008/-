@@ -11,14 +11,14 @@ or
 
 문자포배팅
 '''
-'''
+
 text1 = "Life is too short ."
 text2 = "You need Python"
 
 fullText = text1+text2
 #새로운 문자열이 합쳐져서 fulltext에 저장됨
 print(fullText)
-'''
+
 """ RAM
 ----------------
 주소          값
@@ -38,6 +38,8 @@ text2_2 = "배우고 있습니다."
 fulltext2 = text2_1+text2_2
 print(fulltext2)
 "--------------------------------------"
+
+'''
 text3 ="안녕\n"
 text4 = "하세요"
 
@@ -46,12 +48,12 @@ print(text4)
 fulltext= text3+text4
 print(fulltext)
 
-'''
+
 '''
     RAM
 ----------------------
 #1              안녕\n
 #2              하세요
 #3              안녕\n하세요
-이렇게 출력물과는 다르게 한공간에 저장돼 있는데 \n때문에 줄이 나눠서 우리눈에 출력된느거임
+이렇게 출력물과는 다르게 한공간에 저장돼 있는데 \n때문에 줄이 나눠져서 우리눈에 출력된느거임
 '''
