@@ -16,4 +16,4 @@ print("range -> list = ",rangeToList1)
 print("range -> list = ",rangeToList2)
 #range는 덧셈이 안됨
 #곱셈도 안됨
-print(oddRange+evenRange)
+

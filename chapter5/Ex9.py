@@ -25,13 +25,14 @@ print("tuple -> str", tupletostr)
 print(len(simpleString))
 print(len(simpleList))
 print(len(simpleTuple)) 
-'''
-'''
+
+''''''
 in 과 not in
 위 기능들은 list안에 들어있는 요소인지 아닌지 확인해 주는 기능
 in 들어있다
 not in 없다
 '''
+
 simpleText = "apple, banana, pineapple"
 
 print ("apple" in simpleText)
@@ -39,16 +40,17 @@ print ("apsdfe" in simpleText)
 
 print ("apple" not in simpleText)
 print ("apple" not in simpleText)
-
+'''
 simpelString = '문자열'
 simpleList =["무","야","호"]
 simpleTuple = ("무","한")
 
 simpelString[0] ="1"
 simpleList[0] = 1
-simpleTuple[0] =1
-#이렇게 입력하면 47번줄에서 막힘
+simpleTuple[0] =1'''
 '''
+#이렇게 입력하면 47번줄에서 막힘
+
 시퀀서에는 크게 두가지 타입의 데이터가 있다
 -수정 가능한 데이터타입
 읽고 쓸수 있는 데이터 타입
