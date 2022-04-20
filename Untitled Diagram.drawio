@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T02:45:04.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="pEzhUeFr1AJoGYoXVDWn" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T08:11:59.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="0LVN6DWxDV4dTksV-M1Y" version="17.4.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2427" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3601" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-3" target="DIDQX_OVSp32dabbZ__B-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="190" as="sourcePoint" />
-            <mxPoint x="-40" y="290" as="targetPoint" />
+            <mxPoint x="-360" y="30" as="sourcePoint" />
+            <mxPoint x="-510" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-7" target="DIDQX_OVSp32dabbZ__B-8">
@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=18;endSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-30" target="DIDQX_OVSp32dabbZ__B-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="130" as="sourcePoint" />
-            <mxPoint x="230" y="200" as="targetPoint" />
+            <mxPoint x="450" y="90" as="sourcePoint" />
+            <mxPoint x="450" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=ERzeroToOne;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-114" target="DIDQX_OVSp32dabbZ__B-9">
@@ -54,8 +54,8 @@
             <mxPoint x="70" y="327.5000000000002" as="sourcePoint" />
             <mxPoint x="170" y="325.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-90" y="413" />
-              <mxPoint x="10" y="413" />
+              <mxPoint x="-610" y="413" />
+              <mxPoint x="-425" y="413" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,24 +64,25 @@
             <mxPoint x="-110" y="550" as="sourcePoint" />
             <mxPoint x="174.99999999999977" y="470.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-270" y="413" />
+              <mxPoint x="-790" y="413" />
+              <mxPoint x="-425" y="413" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-122" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="160" width="200" height="310" as="geometry" />
+          <mxGeometry x="-400" y="80" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-8" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-122">
-          <mxGeometry y="30" width="200" height="280" as="geometry" />
+          <mxGeometry y="34.83870967741936" width="200" height="325.16129032258067" as="geometry" />
         </mxCell>
-        <mxCell id="DIDQX_OVSp32dabbZ__B-9" value="사진&#xa;이름&#xa;직종&#xa;담당업무&#xa;이메일&#xa;연락처&#xa;생년월일&#xa;입사일&#xa;퇴사일&#xa;활동정보(활동중/퇴사/보류)&#xa;요양보호사 정보&#xa;계약정보" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-8">
-          <mxGeometry y="50" width="200" height="230" as="geometry" />
+        <mxCell id="DIDQX_OVSp32dabbZ__B-9" value="사진&#xa;이름&#xa;직종&#xa;담당업무&#xa;이메일&#xa;연락처&#xa;생년월일&#xa;입사일&#xa;퇴사일&#xa;활동정보(활동중/퇴사/보류)&#xa;계약정보&#xa;onetomany&#xa;직원복지and직원&#xa;&#xa;회의and직원&#xa;&#xa;교육and직원" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-8">
+          <mxGeometry y="50" width="200" height="275.16129032258067" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-107" value="직원&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%84%9C%EC%8B%9D%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22330%22%20y%3D%22-60%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-122">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry width="60" height="34.83870967741936" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-123" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-340" y="520" width="120" height="310" as="geometry" />
+          <mxGeometry x="-860" y="640" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-118" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-123">
           <mxGeometry x="20" y="30" width="100" height="280" as="geometry" />
@@ -93,7 +94,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-124" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-160" y="520" width="120" height="310" as="geometry" />
+          <mxGeometry x="-680" y="640" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-114" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-124">
           <mxGeometry x="20" y="30" width="100" height="280" as="geometry" />
@@ -105,7 +106,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-125" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-10" y="535" width="130" height="305" as="geometry" />
+          <mxGeometry x="-530" y="655" width="130" height="305" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-18" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-125">
           <mxGeometry x="30" y="54.743589743589745" width="100" height="250.25641025641025" as="geometry" />
@@ -117,7 +118,7 @@
           <mxGeometry width="60" height="46.92307692307692" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-126" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="535" width="130" height="255" as="geometry" />
+          <mxGeometry x="-380" y="655" width="130" height="255" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-14" value="userId&#xa;InstitutionId&#xa;자격증번호" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-126">
           <mxGeometry x="30" y="35" width="100" height="220" as="geometry" />
@@ -129,7 +130,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-127" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="540" width="130" height="190" as="geometry" />
+          <mxGeometry x="-230" y="660" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-25" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-127">
           <mxGeometry x="30" y="30" width="100" height="160" as="geometry" />
@@ -141,7 +142,7 @@
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-128" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="540" width="130" height="190" as="geometry" />
+          <mxGeometry x="-80" y="660" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-27" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-128">
           <mxGeometry x="30" y="30" width="100" height="160" as="geometry" />
@@ -153,31 +154,31 @@
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-129" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="160" width="120" height="330" as="geometry" />
+          <mxGeometry x="490" y="120" width="190" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-29" value="recipterId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-129">
-          <mxGeometry x="20" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="31.666666666666664" y="36.36363636363637" width="158.33333333333331" height="363.6363636363636" as="geometry" />
         </mxCell>
-        <mxCell id="DIDQX_OVSp32dabbZ__B-30" value="userId(fk)&#xa;institutionId(fk)&#xa;사진&#xa;이름&#xa;성별&#xa;생년월일&#xa;주소&#xa;연락처&#xa;인정등급&#xa;인정기간 시작일&#xa;인정기간 종료일&#xa;장기요양인정번호&#xa;본인부담율&#xa;급여기간&#xa;급여한도액&#xa;주요질환정보&#xa;담당직원&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-29">
-          <mxGeometry y="50" width="100" height="250" as="geometry" />
+        <mxCell id="DIDQX_OVSp32dabbZ__B-30" value="담당직원{&#xa;userId(fk)&#xa;institutionId(fk)&#xa;}&#xa;장기요양인정번호(recipterId)&#xa;사진&#xa;이름&#xa;성별&#xa;생년월일&#xa;주소&#xa;연락처&#xa;인정등급&#xa;인정기간 시작일&#xa;인정기간 종료일&#xa;급여기간&#xa;급여한도액&#xa;주요질환정보&#xa;보호자의견에대한답변&#xa;안전관리자료 제공여부" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-29">
+          <mxGeometry y="50" width="158.33333333333331" height="313.6363636363636" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-108" value="수급자&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%84%9C%EC%8B%9D%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22330%22%20y%3D%22-60%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-129">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry width="95" height="36.36363636363637" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-130" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="190" width="120" height="190" as="geometry" />
+          <mxGeometry x="760" y="150" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-31" value="recipterId(fk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-130">
-          <mxGeometry x="20" y="30" width="100" height="160" as="geometry" />
+          <mxGeometry x="20" y="37.89473684210526" width="100" height="202.10526315789474" as="geometry" />
         </mxCell>
-        <mxCell id="DIDQX_OVSp32dabbZ__B-32" value="이름&#xa;수급자와의 관계&#xa;연락처&#xa;email&#xa;주소" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-31">
-          <mxGeometry y="50" width="100" height="110" as="geometry" />
+        <mxCell id="DIDQX_OVSp32dabbZ__B-32" value="이름&#xa;수급자와의 관계&#xa;연락처&#xa;email&#xa;주소&#xa;보호자의견&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-31">
+          <mxGeometry y="50" width="100" height="152.10526315789474" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-109" value="보호자" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-130">
-          <mxGeometry width="60" height="30" as="geometry" />
+          <mxGeometry width="60" height="37.89473684210526" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-131" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-240" y="-240" width="170" height="260" as="geometry" />
+          <mxGeometry x="-710" y="-400" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-2" value="institutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-131">
           <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
@@ -191,7 +192,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-132" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="-290" width="170" height="340" as="geometry" />
+          <mxGeometry x="-400" y="-450" width="170" height="340" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-6" value="userId&#xa;InstitutionId(FK)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-132">
           <mxGeometry x="30" y="30" width="140" height="310" as="geometry" />
@@ -220,14 +221,14 @@
             <mxPoint x="330" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIDQX_OVSp32dabbZ__B-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="DIDQX_OVSp32dabbZ__B-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="190" as="sourcePoint" />
             <mxPoint x="405" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-138" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-520" y="520" width="120" height="310" as="geometry" />
+          <mxGeometry x="-1040" y="640" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="DIDQX_OVSp32dabbZ__B-139" value="userId&#xa;InstitutionId" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-138">
           <mxGeometry x="20" y="30" width="100" height="280" as="geometry" />
@@ -238,14 +239,244 @@
         <mxCell id="DIDQX_OVSp32dabbZ__B-141" value="건강검진" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-138">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DIDQX_OVSp32dabbZ__B-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=ERzeroToOne;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-139" target="DIDQX_OVSp32dabbZ__B-9">
+        <mxCell id="DIDQX_OVSp32dabbZ__B-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=ERzeroToOne;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-139" target="DIDQX_OVSp32dabbZ__B-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-259.9999999999998" y="560" as="sourcePoint" />
-            <mxPoint x="80" y="422.5" as="targetPoint" />
+            <mxPoint x="-790" y="667.5" as="sourcePoint" />
+            <mxPoint x="-400" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-450" y="413" />
+              <mxPoint x="-970" y="410" />
+              <mxPoint x="-425" y="410" />
+              <mxPoint x="-425" y="383" />
+              <mxPoint x="-400" y="383" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-153" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="475" y="680" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-154" value="recipterId(fk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-153">
+          <mxGeometry x="36.666666666666664" y="37.89473684210526" width="183.33333333333331" height="202.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-155" value="계약상태(계약중/보류/계약종료)&#xa;&#xa;계약기간&#xa;계약일&#xa;서비스명&#xa;정산일&#xa;명세서 제공일&#xa;납부일&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-154">
+          <mxGeometry y="50" width="183.33333333333331" height="152.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-156" value="수급자계약" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-153">
+          <mxGeometry width="110" height="37.89473684210526" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-30" target="DIDQX_OVSp32dabbZ__B-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="535.9027272727279" as="sourcePoint" />
+            <mxPoint x="790" y="540.0773684210527" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="601" y="680" />
+              <mxPoint x="603" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-158" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="680" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-159" value="recipterId(fk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-158">
+          <mxGeometry x="36.666666666666664" y="37.89473684210526" width="183.33333333333331" height="202.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-160" value="서비스명&#xa;제공일(제공요일)&#xa;제공시간&#xa;부가서비스&#xa;장소&#xa;설명&#xa;서비스일지&#xa;서비스 완료여부" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-159">
+          <mxGeometry y="50" width="183.33333333333331" height="152.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-161" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;수급자 서비스 및일정&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-158">
+          <mxGeometry width="110" height="37.89473684210526" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-30" target="DIDQX_OVSp32dabbZ__B-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800.0233333333335" y="492.11" as="sourcePoint" />
+            <mxPoint x="797.5233333333335" y="680.004736842105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-163" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="680" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-164" value="recipterId(fk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-163">
+          <mxGeometry x="36.666666666666664" y="37.89473684210526" width="183.33333333333331" height="202.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-165" value="서비스제공월(yyyy-mm)&#xa;청구금액&#xa;입금액&#xa;선입금액&#xa;조정액&#xa;조정사융&#xa;입금처리 등록여부" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-164">
+          <mxGeometry y="50" width="183.33333333333331" height="152.10526315789474" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-166" value="수급자 부담금" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-163">
+          <mxGeometry width="110" height="37.89473684210526" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=18;endSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-30" target="DIDQX_OVSp32dabbZ__B-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="sourcePoint" />
+            <mxPoint x="317.50333333333344" y="717.894736842105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-178" value="요양보호사는 직종이고, 복합키정보에 기관정보가 있기때문에 요양보호사가 기관을 변경하면 InstitutionId를 변경해서 디비에 반영하는방법" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="460" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-189" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;상태기록지에대한 테이블은 논의후 결정.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-190" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1730" y="-340" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-191" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-190">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-192" value="제목&#xa;작성자&#xa;작성일자&#xa;내용&#xa;자료&#xa;&#xa;onetomany&#xa;직원복지and직원" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-191">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-193" value="직원 복지 및 포상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-190">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-197" target="DIDQX_OVSp32dabbZ__B-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1180" y="20" as="sourcePoint" />
+            <mxPoint x="-690" y="234.99999999999977" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-810" y="-190" />
+              <mxPoint x="-810" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-195" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1400" y="-350" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-196" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-195">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-197" value="&#xa;직원{fk}{&#xa;userId,&#xa;InstitutionId&#xa;}&#xa;직원복지 및 포상(fk)&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-196">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-198" value="직원 복지 and직원" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-195">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1530.0000000000002" y="-220" as="sourcePoint" />
+            <mxPoint x="-1380" y="-190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1480" y="-230" />
+              <mxPoint x="-1480" y="-190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-210" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1730" y="-70" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-211" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-210">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-212" value="회의주제&#xa;카테고리&#xa;회의제목&#xa;회의일자(월)&#xa;참석률&#xa;회의종류" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-211">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-213" value="회의" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-210">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-217" target="DIDQX_OVSp32dabbZ__B-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1180" y="290" as="sourcePoint" />
+            <mxPoint x="-490" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-810" y="80" />
+              <mxPoint x="-810" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-215" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1400" y="-80" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-216" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-215">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-217" value="&#xa;직원{fk}{&#xa;userId,&#xa;InstitutionId&#xa;}&#xa;회의(fk)&#xa;&#xa;서명부등록여부" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-216">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-218" value="회의and 직원" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-215">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-212">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1530.0000000000002" y="50" as="sourcePoint" />
+            <mxPoint x="-1380" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1480" y="40" />
+              <mxPoint x="-1480" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-220" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1730" y="230" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-221" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-220">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-222" value="교육기간&#xa;교육명&#xa;작성자&#xa;참석률&#xa;교육카테고리&#xa;교육자료명&#xa;교육자료일련번호&#xa;교육자료등록일&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-221">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-223" value="교육" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-220">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-224" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1400" y="220" width="170" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-225" value="id(pk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-224">
+          <mxGeometry x="20" y="30" width="150" height="230" as="geometry">
+            <mxRectangle x="-10" y="-20" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-226" value="&#xa;직원{fk}{&#xa;userId,&#xa;InstitutionId&#xa;}&#xa;교육(fk)&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-225">
+          <mxGeometry y="30" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-227" value="교육and직원" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-224">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-222">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1530.0000000000002" y="350" as="sourcePoint" />
+            <mxPoint x="-1380" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1480" y="340" />
+              <mxPoint x="-1480" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;startSize=18;endSize=14;dashed=1;exitX=0.997;exitY=0.447;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1220" y="90" as="sourcePoint" />
+            <mxPoint x="-390" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-810" y="369" />
+              <mxPoint x="-810" y="210" />
+              <mxPoint x="-390" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=18;endSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIDQX_OVSp32dabbZ__B-30" target="DIDQX_OVSp32dabbZ__B-249">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="430" as="sourcePoint" />
+            <mxPoint x="1000.0000000000009" y="409.09000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-247" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="150" width="180" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-248" value="recipterId(fk)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-247">
+          <mxGeometry x="30" y="55.263157894736835" width="150" height="294.7368421052631" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-249" value="청구일자&#xa;수급자명&#xa;장기요양등급&#xa;본임부담율&#xa;제공일수&#xa;본인부담금&#xa;공단부담금&#xa;청구완료여부&#xa;급여비용명세서파일&#xa;급여비용영수증파일&#xa;청구액" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-248">
+          <mxGeometry y="50" width="150" height="244.73684210526312" as="geometry" />
+        </mxCell>
+        <mxCell id="DIDQX_OVSp32dabbZ__B-250" value="보호자" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DIDQX_OVSp32dabbZ__B-247">
+          <mxGeometry width="90" height="55.263157894736835" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
